@@ -23,7 +23,7 @@ Pip
 Virtual Environment (optional but recommended)
 ## Installation
 Clone this repository:
-git clone <https://github.com/Sivanitj/Project-phase4.git>
+git clone < https://github.com/Sivanitj/Project-phase5.git>
 Navigate to the project directory:
 cd fake-news-detection
 Create a virtual environment (optional):
